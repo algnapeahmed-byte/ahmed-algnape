@@ -1,0 +1,5 @@
+{
+  "name": "Secret Browser Calculator",
+  "description": "A fully functional calculator that hides a secret web browser, accessible only by entering a specific sequence of calculations. The interface is in Arabic.",
+  "requestFramePermissions": []
+}
